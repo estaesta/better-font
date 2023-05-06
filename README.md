@@ -6,6 +6,9 @@ Just an userscript to change bstation's/bilibili international's css font
 2. Open <a href="https://github.com/estaesta/bstation-better-font/raw/main/Bstation%20Better%20Font.user.js">this link</a>
 3. Click install
 
+# Changelog
+* add vidio better font (6 May 2023)
+
 # to do
 idk.. i can't code
 
