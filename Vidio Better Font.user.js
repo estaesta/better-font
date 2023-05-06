@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vidio Better Font
 // @namespace    https://github.com/estaesta
-// @version      0.1
+// @version      0.2
 // @description  Better font for vidio
 // @author       ddPaud(estaesta)
 // @match        https://www.vidio.com/watch/*
@@ -36,6 +36,5 @@ GM_addStyle ( `
             -2px 1px 1px #000,
             2px -1px 1px #000,
             -2px -1px 1px #000 !important;
-        font-size:95%;
     }
 ` );
