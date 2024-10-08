@@ -3,7 +3,7 @@ Just an userscript to make streaming site font better
 
 # Installation
 1. Install tampermonkey or violentmonkey
-2. Opent the userscript file that you want to install
+2. Open the userscript file that you want to install
 3. Click "Raw" button
 4. Click install
 
