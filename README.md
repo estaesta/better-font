@@ -1,19 +1,29 @@
-# bstation-better-font
-Just an userscript to change bstation's/bilibili international's css font
+# better-font
+Just an userscript to make streaming site font better
 
 # Installation
-1. Install tampermonkey
-2. Open <a href="https://github.com/estaesta/bstation-better-font/raw/main/Bstation%20Better%20Font.user.js">this link</a>
-3. Click install
+1. Install tampermonkey or violentmonkey
+2. Opent the userscript file that you want to install
+3. Click "Raw" button
+4. Click install
+
+# Status
+| bstation | Deprecated. The default font now is great. Don't use this userscript. |
+|---|---|
+| hianime | Works ✔️|
+| vidio | Unmaintained ❌|
+
 
 # Changelog
+* add hianime better font (8 Oct 2024)
 * add vidio better font (6 May 2023)
 
 # to do
 idk.. i can't code
 
-# before
-<img src="./Screenshot (1851).png">
+# hianime
+## before
+![image](https://github.com/user-attachments/assets/646f84d4-f381-45e2-86bd-0478955bf02b)
 
-# after
-<img src="./Screenshot (1860).png">
+## after
+![image](https://github.com/user-attachments/assets/8b3c5ca8-0ab7-4f45-b5db-cf8551e762cb)
