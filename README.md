@@ -10,7 +10,7 @@ Just an userscript to make streaming site font better
 # Status
 | bstation | Deprecated. The default font now is great. Don't use this userscript. |
 |---|---|
-| hianime | Works ✔️|
+| hianime | Works (8 Oct 2021) ✔️|
 | vidio | Unmaintained ❌|
 
 
